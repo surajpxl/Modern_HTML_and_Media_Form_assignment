@@ -1,0 +1,26 @@
+1. List out the features of HTML5.
+
+Answer:->
+1. Nav Tag
+The <nav> tag helps in defining a set of navigation links. It helps create a website section containing navigation links (within the current document or to another document). A few examples of navigation links are the table of contents and indexes.
+
+2. Audio & Video Tags
+With Audio and Video tags, developers can embed videos or audio into their websites. For styling the video tag, developers can use CSS and CSS3.
+
+3. Header
+The <header> element in HTML5 contains introductory content. It can include a set of introductory or navigational support on a website. Typically, the header element contains heading elements, logos or icons, a search form, author’s information, etc.
+
+4. Footer
+The <footer> tag defines the footer of a document or a section. Typically, the footer contains information related to the author, copyright, contact information, sitemap, related documents, back-to-top links, etc. There can be more than one footer element in one document.
+
+5. Figure and figcaption
+These elements help users to insert an image with its caption. The figcaption tag is used to add a description for the image.
+
+6. Canvas Tag
+The canvas tag in HTML5 helps users draw graphics or images on the fly using JavaScript. We can use it for drawing paths, boxes, circles, adding images, etc. The canvas tag has two attributes: width and height for setting the width and height of the canvas.
+
+7. Mark
+The <mark> element highlights a particular text of special interest to the user in an HTML document.
+
+8. Main Tag
+This tag defines the important content of the <body> of a document

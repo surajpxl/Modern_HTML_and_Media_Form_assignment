@@ -1,0 +1,11 @@
+3. What is web accessibility? List some of the assistive devices which play a major role in providing accessibility.
+
+Answer:- Web accessibility is the practice of designing and developing websites, tools, and technologies in such a way that people with disabilities can use them without any difficulties. This means ensuring that all users, regardless of their abilities, can perceive, understand, navigate, and interact with the web, as well as contribute to it.
+
+1. Screen readers and braille displays:-> Properly coded websites can be translated to audio or braille. It’s a common assistive technology for people with vision disabilities or for people who process content better via audio.
+
+2. Voice recognition software:-> People with restricted fine motor function, slow-acting muscles, or tremor and twitches use speech-to-text assistive technology that converts their speech into digital text.
+
+3. Screen magnifying software:-> People with low vision use software that magnifies digital screen content.
+
+4. Writing and reading assistants:-> There are numerous software and apps that provide assistive technology for people with dyslexia, dysgraphia, or reading and writing disabilities.

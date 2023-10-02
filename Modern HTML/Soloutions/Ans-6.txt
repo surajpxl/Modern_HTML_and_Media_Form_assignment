@@ -1,0 +1,16 @@
+6. List any 5 semantic tags in HTML along with thier descriptions.
+
+Answer:-> Semantic tags in HTML along with thier descriptions-
+
+*  <header> - It defines a header for the webpage..
+
+*  <nav> - This tag is used to create the navigation bar of the webpage.
+
+*  <section> - This tag is used to create different sections on webpage.
+
+*  <main> - It is used to write the main content of the article.
+
+*  <article> - Defines a self-contained section of content on a web page, such as a blog post, news article, or product review.
+
+*  <footer> - Represents the footer or bottom section of a web page, typically containing copyright information, contact details, and links to relevant pages or resources.
+
